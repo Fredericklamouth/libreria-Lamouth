@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.menu{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-color: blue;
+    background-image: url(../images/Headrer-image.jpeg);
+    background-size: cover;
+}
+
+.cen-conten{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    background-color: aqua;
+}
+
+.services{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.serv{
+    padding: 20px;
+}
+.buscar{
+    background-color: brown;
+}

@@ -36,6 +36,12 @@ nav {
   padding: 2rem;
   justify-content: space-between;
   align-items: center;
+
+  background-color: #0e0c0b;
+}
+
+nav p{
+    color: #fdfbfb;
 }
 
 nav ul {
@@ -57,3 +63,47 @@ nav ul li a {
   color: #fdfbfb;
   text-decoration: none;
 }
+
+.header-text{
+  margin: 25px;
+
+
+  color: #fdfbfb;
+}
+
+.cen-conten {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin: 50px;
+  background-color: aqua;
+}
+
+.services {
+  border: 10px solid orange;
+  background-color: darkorchid;
+  display: flex;
+  justify-content: space-between;
+}
+
+.serv {
+  border: 1px solid orange;
+  padding: 20px;
+}
+.buscar {
+  background-color: brown;
+}
+
+.catalog-text{
+  width: 4000px;
+}
+
+
+
+
+
+
+
+

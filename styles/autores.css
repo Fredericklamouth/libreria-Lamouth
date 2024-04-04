@@ -111,7 +111,14 @@ tr:hover td {
 
 
 
+.header-text {
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
 
+  color: #fdfbfb;
+  font-weight: 100;
+}
 
 footer{
   width: 100%;

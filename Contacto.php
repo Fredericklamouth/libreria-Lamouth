@@ -76,6 +76,14 @@
         </div>
 
     </div>
+    <footer>
+    <div class="footer-cover"></div>
+    <img class="footer-image" src="images/footer.jpg" alt="Reading" />
+    <div class="header-text">
+      <h1><br> Lamouth Library</h1><br>
+      <p>Fredericklamouth@gmail.com<br> No se que ma poner</p><br>
+    </div>
+  </footer>
 
 </body>
 </html>

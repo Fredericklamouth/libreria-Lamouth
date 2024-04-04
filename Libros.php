@@ -65,7 +65,11 @@
   </main>
   <footer>
     <div class="footer-cover"></div>
-    <img class="footer-image" src="https://miro.medium.com/v2/resize:fit:2000/1*whJElO4Mw0CiiLDUGpYRog.jpeg" alt="Reading" />
+    <img class="footer-image" src="images/footer.jpg" alt="Reading" />
+    <div class="header-text">
+      <h1><br> Lamouth Library</h1><br>
+      <p>Fredericklamouth@gmail.com<br> No se que ma poner</p><br>
+    </div>
   </footer>
 </body>
 
